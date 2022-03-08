@@ -8,11 +8,9 @@ import Routes from './src/Navigations/Routes';
 
 const App = ()=> {
   return (
-    <View>
-      <Text>sdoiodfdsfdffdffd</Text>
+    <>
     <Routes/>
-    <Text>sdoiodfdsfdffdffd</Text>
-    </View>
+    </>
   );
 }
 
